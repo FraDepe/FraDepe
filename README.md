@@ -7,7 +7,7 @@ Hi, I'm Francesco De Persio, a Computer science student at [La Sapienza](https:/
 
 <br>
 
-## 📒 Currently learning
+## 📖 Currently learning
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=C%2B%2B&">
@@ -21,7 +21,7 @@ Hi, I'm Francesco De Persio, a Computer science student at [La Sapienza](https:/
 
 <br>
 
-## 📖 Learnt
+## 📒 Learnt
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?logo=Python">
