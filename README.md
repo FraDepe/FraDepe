@@ -10,7 +10,6 @@ Hi, I'm Francesco De Persio, a Computer science student at [La Sapienza](https:/
 ## 📖 Currently learning
 
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=C%2B%2B&">
   <img alt="html" src="https://img.shields.io/badge/-HTML-yellow?logo=html5">
   <img alt="Go" src="https://img.shields.io/badge/-GoLang-86cccf?logo=Go">
   <img alt="css" src="https://img.shields.io/badge/-CSS-blue?logo=css3">
@@ -27,6 +26,7 @@ Hi, I'm Francesco De Persio, a Computer science student at [La Sapienza](https:/
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?logo=Python">
   <img alt="Java" src="https://img.shields.io/badge/-Java-blue?logo=Oracle">
   <img alt="C" src="https://img.shields.io/badge/-C-223e98?logo=C">
+  <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=C%2B%2B&">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-white?logo=PostgreSQL">
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-black?logo=GNU Bash">
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-388879?logo=LaTeX">
